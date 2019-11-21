@@ -9,5 +9,5 @@ Words
 
 Another paragraph
 
-second_
+.. _second:
 
